@@ -1,0 +1,40 @@
+.carousel .control-dots {
+    margin: 10px auto;
+}
+
+.carousel li.slide img {
+    height: 625px;
+}
+
+.carousel ul.control-dots li.dot {
+    margin-right: 30px;
+}
+
+.carousel ul.thumbs li.thumb img {
+    height: 80px;
+}
+
+.carousel ul.thumbs {
+    text-align: center;
+    margin-right: 10px;
+}
+
+.carousel li.slide .legend {
+    font-size: larger;
+    background-color: rgba(56, 33, 3, 0.582);
+    color: rgb(241, 235, 235);
+}
+
+.carousel button.control-arrow.control-prev {
+    width: 40px;
+    background-color: rgba(8, 1, 1, 0.116);
+}
+
+.carousel button.control-arrow.control-next {
+    width: 40px;
+    background-color: rgba(8, 1, 1, 0.116);
+}
+
+.carousel button {
+    color: white
+}

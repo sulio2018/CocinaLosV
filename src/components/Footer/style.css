@@ -1,0 +1,29 @@
+.main-footer {
+    padding-top: 2em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 30px;
+    background-color: #dedede;
+  }
+  
+.icon {
+    margin-left: 20px;
+}
+
+.icon:hover {
+  opacity: .7;
+}
+
+h6 {
+  text-align: center;
+}
+
+.phone {
+  color: rgb(114, 94, 26);
+  font-size: 1rem;
+}
+
+.phone:hover {
+  text-decoration: none;
+}

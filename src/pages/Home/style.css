@@ -1,0 +1,31 @@
+h1, h4 {
+    margin-top: 20px;
+    text-align: center;
+    color: whitesmoke;
+    line-height: 2;
+}
+
+h4 {
+    font-style: italic;
+}
+
+h1 {
+    text-shadow: 3px 2px red;
+}
+
+a {
+    font-size: 30px;
+    color: gold;
+}
+
+.link {
+    font-style: italic;  
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.ramen {
+    text-align: center;
+    margin-top: 30px;
+}
