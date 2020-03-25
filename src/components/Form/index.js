@@ -30,7 +30,7 @@ export default class MyForm extends React.Component {
 
                 <div className="form-group">
                     <label htmlFor="exampleFormControlTextarea1">Message</label>
-                    <textarea name="message" className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    <textarea name="message" className="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
                 </div>
 
                 {status === "SUCCESS" ? <p>Thanks!</p> : <button type="submit" className="btn btn-primary">Submit Reservation</button>}

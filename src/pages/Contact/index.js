@@ -9,7 +9,8 @@ function Contact() {
 
             <p className='text-center'><a className='phone-contact' href="tel:+3235524263">323.552.4263</a></p>
 
-            <p className='text-center'>For reservations please fill out the form</p>
+            <p className='text-center'>For reservations fill out the form - please include day of your event, address,
+             and number of people attending.</p>
 
             <div className='row'>
                 <div className='col-md-12'>

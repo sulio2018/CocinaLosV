@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import catering1 from '../../images/catering1.jpg';
 // import catering2 from '../../images/catering2.jpg';
 import catering3 from '../../images/catering3.jpg';
@@ -45,7 +46,7 @@ function Catering() {
                             <li className="list-group-item">Vestibulum at eros</li>
                         </ul>
                         <div className="card-body">
-                            <a href="/contact" className="btn btn-primary">Make Your Reservation Today</a>
+                            <Link to="/contact" className="btn btn-primary">Make Your Reservation Today</Link>
                         </div>
                     </div>
                 </div>
@@ -66,7 +67,7 @@ function Catering() {
                             <li className="list-group-item">Vestibulum at eros</li>
                         </ul>
                         <div className="card-body">
-                            <a href="/contact" className="btn btn-primary">Make Your Reservation Today</a>
+                            <Link to="/contact" className="btn btn-primary">Make Your Reservation Today</Link>
                         </div>
                     </div>
                 </div>

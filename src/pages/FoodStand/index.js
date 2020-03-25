@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import Map from "../../components/Map";
 import foodstand1 from "../../images/foodstand1.jpg";
 import "./style.css"
@@ -52,7 +53,7 @@ function FoodStand() {
                                 <h5 className="card-title">Vampiros</h5>
                                 <p className="card-text">Birria on a toasty tortilla with an egg on top................................$5</p>
                                 
-                                <a href="/catering" className="btn btn-primary">Check out our Catering</a>
+                                <Link to="/catering" className="btn btn-primary">Check out our Catering</Link>
                             </div>
                         </div>
                     </div>
