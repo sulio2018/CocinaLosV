@@ -23,7 +23,7 @@ function Catering() {
                     to take care of your guests.
                     </p>
 
-                    <p>Hit us up via phone, text, or email.</p>
+                    <p>Hit us up via phone or email.</p>
 
                     <p>Allow at least two weeks before the day of your event.</p>
                 </div>

@@ -10,7 +10,7 @@ function Home() {
             <Carousel />
 
             <div>
-                <p>Our Birria De Res is full of flavor ane made with Bone In Beef Imported from Mexicali. 
+                <p>Our Birria De Res is full of flavor and made with Bone In Beef Imported from Mexicali. 
                     Our Consomé and Birria Ramen will have you coming back for more!</p>
 
                 <h1 className="header">Here is what people are saying...</h1>
@@ -37,7 +37,7 @@ function Home() {
                 <h1>But most importantly, you cannot leave without trying the World Famous Birria Ramen!</h1>
 
                 <div className="ramen">
-                    <video width="500" height="420" controls>
+                    <video width="450" height="420" controls>
                         <source src={video1} type="video/mp4"></source>
                     </video>
                 </div>

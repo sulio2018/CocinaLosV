@@ -1,6 +1,7 @@
 
 import React, { Component } from 'react';
 import { Switch, Route, HashRouter } from "react-router-dom";
+import ScrollToTop from "./components/ScrollToTop";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
@@ -19,13 +20,15 @@ class App extends Component {
           <HashRouter>
             <div>
               <Navbar />
-              <Switch>
-                <Route exact path="/" component={Home} />
-                <Route exact path="/about" component={About} />
-                <Route exact path="/foodstand" component={FoodStand} />
-                <Route exact path="/catering" component={Catering} />
-                <Route exact path="/contact" component={Contact} />
-              </Switch>
+              <ScrollToTop>
+                <Switch>
+                  <Route exact path="/" component={Home} />
+                  <Route exact path="/about" component={About} />
+                  <Route exact path="/foodstand" component={FoodStand} />
+                  <Route exact path="/catering" component={Catering} />
+                  <Route exact path="/contact" component={Contact} />
+                </Switch>
+              </ScrollToTop>
             </div>
             <Footer />
           </HashRouter>
