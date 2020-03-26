@@ -33,7 +33,7 @@ function FoodStand() {
                             </div>
                             <div className="card-body">
                                 <h5 className="card-title">Consomé</h5>
-                                <p className="card-text">Broth with Birria cup/24oz
+                                <p className="card-text">Broth with Birria cup/24oz (most popular)
                                 ...............................................$5/$10</p>
 
                                 <h5 className="card-title">Birria Ramen</h5>
@@ -43,7 +43,7 @@ function FoodStand() {
                                 <p className="card-text">Birria inside two tortillas with melted cheese.......................$4</p>
 
                                 <h5 className="card-title">Dorados</h5>
-                                <p className="card-text">Crispy tacos with birria..........................................................$1.5ea</p>
+                                <p className="card-text">Crispy tacos with birria.......................................................$1.5ea</p>
 
                                 <h5 className="card-title">Quesabirria</h5>
                                 <p className="card-text">Cheese and Birria wrapped in corn tortilla............................$4</p>
