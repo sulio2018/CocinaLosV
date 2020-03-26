@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cocinalosv/static/css/main.f32ede57.chunk.css",
-    "main.js": "/cocinalosv/static/js/main.cdca57ee.chunk.js",
-    "main.js.map": "/cocinalosv/static/js/main.cdca57ee.chunk.js.map",
+    "main.css": "/cocinalosv/static/css/main.d54f5a2a.chunk.css",
+    "main.js": "/cocinalosv/static/js/main.f7b75ece.chunk.js",
+    "main.js.map": "/cocinalosv/static/js/main.f7b75ece.chunk.js.map",
     "runtime-main.js": "/cocinalosv/static/js/runtime-main.a449a04a.js",
     "runtime-main.js.map": "/cocinalosv/static/js/runtime-main.a449a04a.js.map",
     "static/css/2.e49e09ab.chunk.css": "/cocinalosv/static/css/2.e49e09ab.chunk.css",
-    "static/js/2.2bba1429.chunk.js": "/cocinalosv/static/js/2.2bba1429.chunk.js",
-    "static/js/2.2bba1429.chunk.js.map": "/cocinalosv/static/js/2.2bba1429.chunk.js.map",
+    "static/js/2.e8d37bd8.chunk.js": "/cocinalosv/static/js/2.e8d37bd8.chunk.js",
+    "static/js/2.e8d37bd8.chunk.js.map": "/cocinalosv/static/js/2.e8d37bd8.chunk.js.map",
     "index.html": "/cocinalosv/index.html",
-    "precache-manifest.c5faea5f8964b4a36014b7fe7e7d98df.js": "/cocinalosv/precache-manifest.c5faea5f8964b4a36014b7fe7e7d98df.js",
+    "precache-manifest.35e66f4af0cae5934da27495e1d72b82.js": "/cocinalosv/precache-manifest.35e66f4af0cae5934da27495e1d72b82.js",
     "service-worker.js": "/cocinalosv/service-worker.js",
     "static/css/2.e49e09ab.chunk.css.map": "/cocinalosv/static/css/2.e49e09ab.chunk.css.map",
-    "static/css/main.f32ede57.chunk.css.map": "/cocinalosv/static/css/main.f32ede57.chunk.css.map",
-    "static/js/2.2bba1429.chunk.js.LICENSE.txt": "/cocinalosv/static/js/2.2bba1429.chunk.js.LICENSE.txt",
+    "static/css/main.d54f5a2a.chunk.css.map": "/cocinalosv/static/css/main.d54f5a2a.chunk.css.map",
+    "static/js/2.e8d37bd8.chunk.js.LICENSE.txt": "/cocinalosv/static/js/2.e8d37bd8.chunk.js.LICENSE.txt",
     "static/media/about2.jpg": "/cocinalosv/static/media/about2.dc83f005.jpg",
     "static/media/catering1.jpg": "/cocinalosv/static/media/catering1.8513be25.jpg",
     "static/media/catering3.jpg": "/cocinalosv/static/media/catering3.d7b8f4e4.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.a449a04a.js",
     "static/css/2.e49e09ab.chunk.css",
-    "static/js/2.2bba1429.chunk.js",
-    "static/css/main.f32ede57.chunk.css",
-    "static/js/main.cdca57ee.chunk.js"
+    "static/js/2.e8d37bd8.chunk.js",
+    "static/css/main.d54f5a2a.chunk.css",
+    "static/js/main.f7b75ece.chunk.js"
   ]
 }

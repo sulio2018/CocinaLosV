@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb2b2cab7bf2cae1df9ae2822497c0d0",
+    "revision": "4cb1e074e25a48f6300cc3b81d273c70",
     "url": "/cocinalosv/index.html"
   },
   {
-    "revision": "df0e3055d10cb0e13950",
+    "revision": "844899abe30495479b7c",
     "url": "/cocinalosv/static/css/2.e49e09ab.chunk.css"
   },
   {
-    "revision": "ca063ebbea53a1e08563",
-    "url": "/cocinalosv/static/css/main.f32ede57.chunk.css"
+    "revision": "82d86f6c893adb1e01e8",
+    "url": "/cocinalosv/static/css/main.d54f5a2a.chunk.css"
   },
   {
-    "revision": "df0e3055d10cb0e13950",
-    "url": "/cocinalosv/static/js/2.2bba1429.chunk.js"
+    "revision": "844899abe30495479b7c",
+    "url": "/cocinalosv/static/js/2.e8d37bd8.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/cocinalosv/static/js/2.2bba1429.chunk.js.LICENSE.txt"
+    "url": "/cocinalosv/static/js/2.e8d37bd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca063ebbea53a1e08563",
-    "url": "/cocinalosv/static/js/main.cdca57ee.chunk.js"
+    "revision": "82d86f6c893adb1e01e8",
+    "url": "/cocinalosv/static/js/main.f7b75ece.chunk.js"
   },
   {
     "revision": "dc7fe83296635d8df4e0",
