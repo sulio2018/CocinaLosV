@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cocinalosv/static/css/main.dbaf72be.chunk.css",
-    "main.js": "/cocinalosv/static/js/main.c5c4af44.chunk.js",
-    "main.js.map": "/cocinalosv/static/js/main.c5c4af44.chunk.js.map",
+    "main.js": "/cocinalosv/static/js/main.ba0b09a7.chunk.js",
+    "main.js.map": "/cocinalosv/static/js/main.ba0b09a7.chunk.js.map",
     "runtime-main.js": "/cocinalosv/static/js/runtime-main.a449a04a.js",
     "runtime-main.js.map": "/cocinalosv/static/js/runtime-main.a449a04a.js.map",
     "static/css/2.e49e09ab.chunk.css": "/cocinalosv/static/css/2.e49e09ab.chunk.css",
     "static/js/2.e8d37bd8.chunk.js": "/cocinalosv/static/js/2.e8d37bd8.chunk.js",
     "static/js/2.e8d37bd8.chunk.js.map": "/cocinalosv/static/js/2.e8d37bd8.chunk.js.map",
     "index.html": "/cocinalosv/index.html",
-    "precache-manifest.8406a36cb62ea5932cfb2a7667587a15.js": "/cocinalosv/precache-manifest.8406a36cb62ea5932cfb2a7667587a15.js",
+    "precache-manifest.7401ac554d6bf896c19c6bc38e98637d.js": "/cocinalosv/precache-manifest.7401ac554d6bf896c19c6bc38e98637d.js",
     "service-worker.js": "/cocinalosv/service-worker.js",
     "static/css/2.e49e09ab.chunk.css.map": "/cocinalosv/static/css/2.e49e09ab.chunk.css.map",
     "static/css/main.dbaf72be.chunk.css.map": "/cocinalosv/static/css/main.dbaf72be.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.e49e09ab.chunk.css",
     "static/js/2.e8d37bd8.chunk.js",
     "static/css/main.dbaf72be.chunk.css",
-    "static/js/main.c5c4af44.chunk.js"
+    "static/js/main.ba0b09a7.chunk.js"
   ]
 }
