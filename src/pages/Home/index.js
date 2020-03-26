@@ -37,7 +37,7 @@ function Home() {
                 <h1>But most importantly, you cannot leave without trying the World Famous Birria Ramen!</h1>
 
                 <div className="ramen">
-                    <video width="400" height="420" controls>
+                    <video className="vid" width="400" height="420" controls>
                         <source src={video1} type="video/mp4"></source>
                     </video>
                 </div>
