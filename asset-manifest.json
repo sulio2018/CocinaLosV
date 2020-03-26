@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cocinalosv/static/css/main.dbaf72be.chunk.css",
-    "main.js": "/cocinalosv/static/js/main.a5b7cee5.chunk.js",
-    "main.js.map": "/cocinalosv/static/js/main.a5b7cee5.chunk.js.map",
+    "main.css": "/cocinalosv/static/css/main.5ec2dc2c.chunk.css",
+    "main.js": "/cocinalosv/static/js/main.3d8bf43b.chunk.js",
+    "main.js.map": "/cocinalosv/static/js/main.3d8bf43b.chunk.js.map",
     "runtime-main.js": "/cocinalosv/static/js/runtime-main.a449a04a.js",
     "runtime-main.js.map": "/cocinalosv/static/js/runtime-main.a449a04a.js.map",
     "static/css/2.e49e09ab.chunk.css": "/cocinalosv/static/css/2.e49e09ab.chunk.css",
     "static/js/2.e8d37bd8.chunk.js": "/cocinalosv/static/js/2.e8d37bd8.chunk.js",
     "static/js/2.e8d37bd8.chunk.js.map": "/cocinalosv/static/js/2.e8d37bd8.chunk.js.map",
     "index.html": "/cocinalosv/index.html",
-    "precache-manifest.0a3b7eec06188896b47a16c60f820c43.js": "/cocinalosv/precache-manifest.0a3b7eec06188896b47a16c60f820c43.js",
+    "precache-manifest.d4398f13e8d9db1eaf74f8741c5c65c6.js": "/cocinalosv/precache-manifest.d4398f13e8d9db1eaf74f8741c5c65c6.js",
     "service-worker.js": "/cocinalosv/service-worker.js",
     "static/css/2.e49e09ab.chunk.css.map": "/cocinalosv/static/css/2.e49e09ab.chunk.css.map",
-    "static/css/main.dbaf72be.chunk.css.map": "/cocinalosv/static/css/main.dbaf72be.chunk.css.map",
+    "static/css/main.5ec2dc2c.chunk.css.map": "/cocinalosv/static/css/main.5ec2dc2c.chunk.css.map",
     "static/js/2.e8d37bd8.chunk.js.LICENSE.txt": "/cocinalosv/static/js/2.e8d37bd8.chunk.js.LICENSE.txt",
     "static/media/about2.jpg": "/cocinalosv/static/media/about2.dc83f005.jpg",
     "static/media/catering1.jpg": "/cocinalosv/static/media/catering1.8513be25.jpg",
     "static/media/catering3.jpg": "/cocinalosv/static/media/catering3.d7b8f4e4.jpg",
     "static/media/catering5.jpg": "/cocinalosv/static/media/catering5.5c810c84.jpg",
     "static/media/foodstand1.jpg": "/cocinalosv/static/media/foodstand1.869fa017.jpg",
-    "static/media/img1.jpg": "/cocinalosv/static/media/img1.3399dca8.jpg",
+    "static/media/img1.jpg": "/cocinalosv/static/media/img1.f88373fe.jpg",
     "static/media/img2.jpg": "/cocinalosv/static/media/img2.b96b89b6.jpg",
     "static/media/img3.jpg": "/cocinalosv/static/media/img3.7c7eb5bd.jpg",
     "static/media/img4.jpg": "/cocinalosv/static/media/img4.20d51bec.jpg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.a449a04a.js",
     "static/css/2.e49e09ab.chunk.css",
     "static/js/2.e8d37bd8.chunk.js",
-    "static/css/main.dbaf72be.chunk.css",
-    "static/js/main.a5b7cee5.chunk.js"
+    "static/css/main.5ec2dc2c.chunk.css",
+    "static/js/main.3d8bf43b.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4b3d67d01159d9cd35b731ea092d893",
+    "revision": "3ad8585668ba61152a78fa9758b5b1f3",
     "url": "/cocinalosv/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cocinalosv/static/css/2.e49e09ab.chunk.css"
   },
   {
-    "revision": "2636c08d74d39d89fd70",
-    "url": "/cocinalosv/static/css/main.dbaf72be.chunk.css"
+    "revision": "7aefeef515005ecbd106",
+    "url": "/cocinalosv/static/css/main.5ec2dc2c.chunk.css"
   },
   {
     "revision": "844899abe30495479b7c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cocinalosv/static/js/2.e8d37bd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2636c08d74d39d89fd70",
-    "url": "/cocinalosv/static/js/main.a5b7cee5.chunk.js"
+    "revision": "7aefeef515005ecbd106",
+    "url": "/cocinalosv/static/js/main.3d8bf43b.chunk.js"
   },
   {
     "revision": "dc7fe83296635d8df4e0",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cocinalosv/static/media/foodstand1.869fa017.jpg"
   },
   {
-    "revision": "3399dca8ff4744481b9b6aab5e626dca",
-    "url": "/cocinalosv/static/media/img1.3399dca8.jpg"
+    "revision": "f88373fecc956aed61ed85d55ec3b6b9",
+    "url": "/cocinalosv/static/media/img1.f88373fe.jpg"
   },
   {
     "revision": "b96b89b6b0254daf200d0df72d8be8fd",
