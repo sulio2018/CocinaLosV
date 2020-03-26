@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cb1e074e25a48f6300cc3b81d273c70",
+    "revision": "6be22574105e2430645be65489442f16",
     "url": "/cocinalosv/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cocinalosv/static/css/2.e49e09ab.chunk.css"
   },
   {
-    "revision": "82d86f6c893adb1e01e8",
-    "url": "/cocinalosv/static/css/main.d54f5a2a.chunk.css"
+    "revision": "83146d341e1ee2ae3c09",
+    "url": "/cocinalosv/static/css/main.c3539502.chunk.css"
   },
   {
     "revision": "844899abe30495479b7c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cocinalosv/static/js/2.e8d37bd8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82d86f6c893adb1e01e8",
-    "url": "/cocinalosv/static/js/main.f7b75ece.chunk.js"
+    "revision": "83146d341e1ee2ae3c09",
+    "url": "/cocinalosv/static/js/main.27a4451d.chunk.js"
   },
   {
     "revision": "dc7fe83296635d8df4e0",
