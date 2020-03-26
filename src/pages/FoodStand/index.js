@@ -33,23 +33,22 @@ function FoodStand() {
                             </div>
                             <div className="card-body">
                                 <h5 className="card-title">Consomé</h5>
-                                <p className="card-text">Broth with Birria cup/24oz (most popular)
-                                ...............................................$5/$10</p>
+                                <p className="card-text">Broth with Birria cup/24oz...............$5/$10</p>
 
                                 <h5 className="card-title">Birria Ramen</h5>
-                                <p className="card-text">Broth with Birria and Ramen cup/24oz......................$10/$25</p>
+                                <p className="card-text">Broth with Birria and Ramen cup/24oz....$10/$25</p>
 
                                 <h5 className="card-title">Mulitas</h5>
-                                <p className="card-text">Birria inside two tortillas with melted cheese.......................$4</p>
+                                <p className="card-text">Birria inside tortillas w/cheese.............$4</p>
 
                                 <h5 className="card-title">Dorados</h5>
-                                <p className="card-text">Crispy tacos with birria.......................................................$1.5ea</p>
+                                <p className="card-text">Crispy tacos with birria.................$1.5ea</p>
 
                                 <h5 className="card-title">Quesabirria</h5>
-                                <p className="card-text">Cheese and Birria wrapped in corn tortilla............................$4</p>
+                                <p className="card-text">Cheese and Birria in corn tortilla...........$4</p>
 
                                 <h5 className="card-title">Vampiros</h5>
-                                <p className="card-text">Birria on a toasty tortilla with an egg on top..........................$5</p>
+                                <p className="card-text">Birria on a toasty tortilla w/ egg on top....$5</p>
                                 
                                 <Link to="/catering" className="btn btn-primary">Catering Menu</Link>
                             </div>

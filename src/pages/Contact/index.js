@@ -5,7 +5,7 @@ import './style.css'
 function Contact() {
     return (
         <div className='container'>
-            <p className='text-center'>For all inquiries please contact Miguel Velasquez at</p>
+            <p className='text-center'>For all inquiries contact Miguel Velasquez at</p>
 
             <p className='text-center'><a className='phone-contact' href="tel:+3235524263">323.552.4263</a></p>
 
