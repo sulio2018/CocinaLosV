@@ -37,9 +37,8 @@ function Home() {
                 <h1>But most importantly, you cannot leave without trying the World Famous Birria Ramen!</h1>
 
                 <div className="ramen">
-                    <video className="vid" width="400" height="420" controls>
-                        <source src={video1} type="video/mp4"></source>
-                    </video>
+                    {/* eslint-disable-next-line */}
+                    <object data={video1} className="vid" width="100%" height="420"></object>
                 </div>
 
             </div>
